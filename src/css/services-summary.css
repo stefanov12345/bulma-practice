@@ -1,0 +1,19 @@
+.services-summary-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.summary-items{
+    padding: 4rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.summary-content{
+    flex-direction: column;
+}
+
+.summary-items i{
+    margin-right: 17px;
+}

@@ -1,0 +1,16 @@
+.services-section-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box-section-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4rem;
+}
+
+.box-section-item p {
+    margin-top: 0.5rem;
+}
+
